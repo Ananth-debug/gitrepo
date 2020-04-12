@@ -7,4 +7,6 @@ and its dark
 and we set line number
 gitdemo addition
 edited git diff check testing in progress
-  
+eck diff 
+checking again
+ 
